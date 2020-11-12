@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "878119164814",
+    "firebase_url": "https://gawebweeksb.firebaseio.com",
+    "project_id": "gawebweeksb",
+    "storage_bucket": "gawebweeksb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878119164814:android:3af17ec2c86cf053a0e2df",
+        "android_client_info": {
+          "package_name": "com.mibeutyapp.gawebWeEksab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878119164814-gdrt94mvk16tfelkoaotivb6fbc6990j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mibeutyapp.gawebWeEksab",
+            "certificate_hash": "863bbec75e4d90363b6483b9c9e9c76dcf881a0f"
+          }
+        },
+        {
+          "client_id": "878119164814-m4c7dcn24j7ri92bebhsgqdf4fntpveh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbWfvJX4teICV6yPfdlnMo-_GolvZOme8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878119164814-m4c7dcn24j7ri92bebhsgqdf4fntpveh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-7666672247610328~3815259414"
+    }
+  ],
+  "configuration_version": "1"
+}
